@@ -1,5 +1,7 @@
 # COMP3005A3
 
+Link to Video: https://youtu.be/CV2pNrTLRBs
+
 Steps to Run the Program
 
 1. Create the Database in pgAdmin 4
