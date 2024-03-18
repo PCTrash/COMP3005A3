@@ -26,3 +26,4 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 8. Open the assignment3.py file in an editor like VSCode.
 9. Under the DATABASE_URL section, input the necessary parameters to connect to the database, your username, password, and the database name.
 10. Run the code and follow the menu on screen to make changes to the database.
+11. To verify any of the changes were made go to pgAdmin 4 and use the query: "SELECT * FROM students" this will show the table
